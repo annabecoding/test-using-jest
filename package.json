@@ -1,0 +1,22 @@
+{
+  "name": "test-using-jest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "just": "^0.1.8"
+  },
+  "dependencies": {
+    "jest-environment-jsdom": "^29.7.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "description": ""
+}
